@@ -1,0 +1,157 @@
+我有一份数据,名字叫word_roots.xlsx,它里面只有一列,大约有18000行数据,,其中一部分数据内容如下:
+229.-rud-原始，粗野
+【词源】①来源于拉丁语rudis原始。②来自拉丁语的rud意为crude粗糙的。
+【引申】粗野/粗糙的/粗鲁的/没教养的
+rude[ruːd]adj.粗鲁的；无礼的；狂暴的；未开化的【词频6815】【B4M3】
+rudely['rudli]adv.无礼地；粗暴地【词频19879】
+rudeness['rʊdnɪs]n.无礼；粗蛮【词频21542】
+rudiment['ruːdɪm(ə)nt]n.雏形；基本原理【词频27256】
+rudimental[,ru:di'mentəl]adj.初步的，基本的，起码的
+rudimentary[,ruːdɪ'ment(ə)rɪ]adj.基本的；初步的；退化的；残遗的；未发展的【词频12450】
+rudbeckia[rʊd'bɛkɪr]n.黄雏菊属【词频37839】
+erudite['erʊdaɪt]adj.博学的；有学问的n.饱学之士【词频23971】
+erudition[,erʊ'dɪʃ(ə)n]n.博学；学识【词频26190】
+230.-plod(s)-=-plaud(s)-=-plex-爆破，鼓掌
+【词源】来源于拉丁语-plodere（过去分词-plosus)"burst"，fromplaudere"clap，clapthehands，applaud"，but
+nowonlyuseitsfigurativesense"burst"；引申自雷鸣般的掌声,爆炸般的掌声。
+【引申】拍/嗓音/轰鸣/鼓掌/碰撞/喧闹声
+explode[ɪk'spləʊd]vi.爆炸，爆发；激增vt.使爆炸；爆炸；推翻【词频3125】【B4M4】
+exploder[ɪk'splodɚ]n.爆炸者；爆炸物；爆炸装置；雷管
+explosion[ɪk'spləʊʒ(ə)n]n.爆炸；爆发；激增【词频3042】【B4M4】
+exploding[ɪk'splodɪŋ]n.爆炸，爆发；水热炸裂v.爆炸（现在分词）【词频22533】
+exploded[ɪk'spləʊdɪd]adj.爆炸了的；分解的；被破除的v.爆炸（过去分词）【词频30075】
+unexploded[ʌnɪk'spləʊdɪd]adj.未爆炸的；装着炸药的；未发射的【词频29162】
+explosive[ɪk'spləʊsɪv]adj.爆炸的；爆炸性的；爆发性的n.炸药；爆炸物【词频5447】
+explosives[ɪk'splosɪv]n.爆炸物，[化工]炸药；爆炸品（explosive的复数）【词频7379】
+explosively[ɪk'splosɪvli]adv.爆发地，引起爆炸地【词频26420】
+explosiveness[ɪksp'ləʊsɪvnəs]n.爆炸性【词频37931】
+high-explosive[haɪ-ɪk'splosɪv]n.[化工]烈性炸药；高爆炸药；猛炸药【词频44856】
+implode[ɪm'pləʊd]vt.使内爆vi.向内破裂；内爆；崩溃【词频18431】
+implosion[ɪm'pləʊd]vt.使内爆vi.向内破裂；内爆；崩溃
+imploding[ɪmp'ləʊdɪŋ]adj.爆聚的v.爆聚（现在分词）【词频55641】
+plosive['pləʊsɪv]n.破裂音adj.破裂音的
+plosion['pləʊʒ(ə)n]n.爆破音；爆破
+implosion[ɪm'pləʊʒən]n.向内破裂；内破裂音【词频21646】
+applaud[ə'plɔːd]vt.赞同；称赞；向…喝彩vi.喝彩；鼓掌欢迎【词频5793】
+applauded[əˈplɔ:did]v.鼓掌（过去式和过去分词）；称赞，赞许【词频35902】
+applause[ə'plɔːz]n.掌声【B4M3】
+plaudit['plɔːdɪt]n.喝彩；赞美【词频32801】
+231.-soci-同伴，联合，结合
+【词源】①来源于拉丁语socius同伴，-soc-/-socio-为-soci-的变体。②来源于拉丁语动词socio，sociare，
+sociavi，sociatus（联合）。
+【引申】结交/结合/社交/社会/联合
+society[sə'saɪətɪ]n.社会；交往；社团；社交界（复数societies）【词频507】
+societal[sə'saɪətəl]adj.社会的【词频7092】
+society-wide[sə'saɪətɪ-waɪd]adj.全社会的【词频56609】
+high-society[haɪ-sə'saɪətɪ]n.上流社会【词频43075】
+.我希望将里面word_root.xlsx的数据整理成一个结构化的表格,表头是Root	Meaning	Category	Variant	Main Word	Main Word Meaning	Main Word Phonetic	Derived Word	Derived Word Meaning	Derived Word Phonetic,例如,原数据:3.-vinc-=-vict-胜，征服
+【词源】①来源于拉丁语vincere战胜；②来源典故：凯撒大帝Caesar平定庞培部下叛乱后，颁布的“三
+V文书”，即Veni、Vedi、Vici，为拉丁语，意为“Icame,Isaw,Iconquered”，含义为“到、看、胜”，
+词根为它的变体，含义与之相同；③来源于古罗马神话人Victoria,胜利女神。
+【引申】战胜/胜利/征服/克服
+province['prɒvɪns]n.省；领域；职权【词频3249】【B1M1】
+province-wide[ˈprɒvɪnsˌwaɪd]adj.全省的adv.全省地【词频59028】
+provincial[prə'vɪnʃ(ə)l]adj.省的；地方性的n.乡下人；外地人【词频6393，44409】
+provincially[prəu'vinʃəli]adv.以地方；偏狭地【词频55594】
+provinciality[prəʊ,vɪnʃɪ'ælətɪ]n.乡下习气；粗鄙，偏狭；地方特色【词频57123】
+provincialism[prə'vɪnʃ(ə)lɪz(ə)m]n.方言；地方风格；乡下习气【词频36027】
+victor['vɪktə]n.胜利者【词频13052】
+victory['vɪkt(ə)rɪ]n.胜利；成功；克服【词频1467】【B5M5】
+victorious[vɪk'tɔːrɪəs]adj.胜利的；凯旋的【词频11883】
+victoriously[vɪk'tɔriəsli]adv.获胜地；凯旋归来地【词频46679】
+Victorian[vik'tɔ:riən]adj.维多利亚女王时代的n.维多利亚时代【词频6333，23683】
+Victorian-era[vik'tɔ:riən-'ɪərə]n.维多利亚时代【词频37086】
+Victorian-style[vik'tɔ:riən-staɪl]n.维多利亚风格【词频38131】
+late-Victorian[[leɪt-vik'tɔ:riən]adj.维多利亚晚期【词频51544】
+neo-Victorian['ni:əu-vik'tɔ:riən]adj.新维多利亚的【词频57608】
+victim['vɪktɪm]n.受害者【词频1064】【B4M4】
+victimless['vɪktɪmlɪs]adj.不侵害他人的，无受害人的（犯罪行为等）【词频33578】
+victimize['vɪktɪmaɪz]vt.使受害；使牺牲；欺骗【词频10957】
+victimized['vɪktɪmaɪz]vt.使受害；使牺牲；欺骗【词频27113】
+victimization[,vɪktɪmɪ'zeʃən]n.牺牲；欺骗【词频10715】
+victimizer['vɪktɪmaɪzə]n.施害者【词频36500】
+convince[kən'vɪns]vt.说服；使确信【词频2050】
+convinced[kən'vɪnst]adj.确信的，信服的【词频3742】【X8M4】
+unconvinced[,ʌnkən'vɪnst]adj.不信服的；怀疑的【词频20482】
+convincing[kən'vɪnsɪŋ]adj.令人信服的；有说服力的【词频6217】
+unconvincing[ʌnkən'vɪnsɪŋ]adj.不足以令人相信的【词频25204】
+convincingly[kən'vɪnsɪŋli]adv.令人信服地；有说服力地【词频14175】
+unconvincingly[ʌnkən'vɪnsɪŋli]adv.缺乏说服力地；无法令人信服地【词频40853】
+convict[kən'vɪkt]n.囚犯vt.证明…有罪；宣告…有罪【词频3706，12076】【X7M3】
+ex-convict[,eks'kɔnvikt]n.从前曾被判刑的人；[法]前科犯【词频31790】
+post-conviction[pəust-kən'vɪkʃ(ə)n]n.定罪后救济【词频47805】
+evict[ɪ'vɪkt]vt.驱逐；逐出【词频12684】
+eviction[ɪ'vɪkʃ(ə)n]n.逐出；赶出；收回【词频16890】
+evicted[ɪ'vɪktid]adj.被驱逐的【词频54954】
+evince[ɪ'vɪns]vt.表明，表示；引起【词频19431】
+vincible['vɪnsɪb(ə)l]adj.可征服的，易克服的
+invincible[ɪn'vɪnsɪb(ə)l]adj.无敌的；不能征服的【词频15520】
+invincibility[ɪn,vɪnsə'bɪləti]n.无敌；不可战胜【词频28489】
+vincristine[vɪn'krɪstiːn]n.[药]长春新碱（一种抗肿瘤药）【词频58822】
+整理后的数据:Root	Meaning	Category	Variant	Main Word	Main Word Meaning	Main Word Phonetic	Derived Word	Derived Word Meaning	Derived Word Phonetic
+vinc/vict	胜，征服	other	vinc	province	n.省；领域；职权	/'prɒvɪns/	province-wide	adj.全省的adv.全省地	/ˈprɒvɪnsˌwaɪd/
+vinc/vict	胜，征服	other	vinc	province	n.省；领域；职权	/'prɒvɪns/	provincial	adj.省的；地方性的n.乡下人；外地人	/prə'vɪnʃ(ə)l/
+vinc/vict	胜，征服	other	vinc	province	n.省；领域；职权	/'prɒvɪns/	provincially	adv.以地方；偏狭地	/prəu'vinʃəli/
+vinc/vict	胜，征服	other	vinc	province	n.省；领域；职权	/'prɒvɪns/	provinciality	n.乡下习气；粗鄙，偏狭；地方特色	/prəʊ,vɪnʃɪ'ælətɪ/
+vinc/vict	胜，征服	other	vinc	province	n.省；领域；职权	/'prɒvɪns/	provincialism	n.方言；地方风格；乡下习气	/prə'vɪnʃ(ə)lɪz(ə)m/
+vinc/vict	胜，征服	other	vinc	convince	vt.说服；使确信	/kən'vɪns/	convinced	adj.确信的，信服的	/kən'vɪnst/
+vinc/vict	胜，征服	other	vinc	convince	vt.说服；使确信	/kən'vɪns/	convincing	adj.确信的，信服的	/kən'vɪnsɪŋ/
+vinc/vict	胜，征服	other	vinc	convince	vt.说服；使确信	/kən'vɪns/	convincingly	adv.令人信服地；有说服力地	/kən'vɪnsɪŋli/
+vinc/vict	胜，征服	other	vinc	convince	vt.说服；使确信	/kən'vɪns/	unconvincing	adj.不足以令人相信的	/ʌnkən'vɪnsɪŋ/
+vinc/vict	胜，征服	other	vinc	convince	vt.说服；使确信	/kən'vɪns/	unconvinced	adj.不信服的；怀疑的	/,ʌnkən'vɪnst/
+vinc/vict	胜，征服	other	vinc	convince	vt.说服；使确信	/kən'vɪns/	unconvincingly	adv.缺乏说服力地；无法令人信服地	/ʌnkən'vɪnsɪŋli/
+vinc/vict	胜，征服	other	vinc	vincible	adj.可征服的，易克服的	/'vɪnsɪb(ə)l/	invincible	adj.无敌的；不能征服的	/ɪn'vɪnsɪb(ə)l/
+vinc/vict	胜，征服	other	vinc	vincible	adj.可征服的，易克服的	/'vɪnsɪb(ə)l/	invincibility	n.无敌；不可战胜	/ɪn,vɪnsə'bɪləti/
+vinc/vict	胜，征服	other	vinc	evince	vt.表明，表示；引起	/ɪ'vɪns/	null	null	null
+vinc/vict	胜，征服	other	vinc	vincristine	n.[药]长春新碱（一种抗肿瘤药）	/vɪn'krɪstiːn/	null	null	null
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	victory	n. 胜利；成功；克服【词频 1467】【B5M5】	/ˈvɪkt(ə)rɪ/
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	victorious	adj. 胜利的；凯旋的【词频 11883】	/vɪkˈtɔːrɪəs/
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	victoriously	adv. 获胜地；凯旋归来地【词频 46679】	/vɪkˈtɔriəsli/
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	Victorian	adj. 维多利亚女王时代的 n. 维多利亚时代【词频 6333，23683】	/vikˈtɔːriən/
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	Victorian-era	n. 维多利亚时代【词频 37086】	/vikˈtɔːriən-ˈɪərə/
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	Victorian-style	n. 维多利亚风格【词频 38131】	/vikˈtɔːriən-staɪl/
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	late-Victorian	adj. 维多利亚晚期【词频 51544】	/[leɪt-vikˈtɔːriən]/
+vinc/vict	胜，征服	other	vict	victor	n.胜利者【词频13052】	/'vɪktə/	neo-Victorian	adj. 新维多利亚的【词频 57608】	/ˈniːəu-vikˈtɔːriən/
+vinc/vict	胜，征服	other	vict	victim	n. 受害者【词频 1064】【B4M4】	/ˈvɪktɪm/	victimless	adj. 不侵害他人的，无受害人的（犯罪行为等）【词频 33578】	/ˈvɪktɪmlɪs/
+vinc/vict	胜，征服	other	vict	victim	n. 受害者【词频 1064】【B4M4】	/ˈvɪktɪm/	victimize	vt. 使受害；使牺牲；欺骗【词频 10957】	/ˈvɪktɪmaɪz/
+vinc/vict	胜，征服	other	vict	victim	n. 受害者【词频 1064】【B4M4】	/ˈvɪktɪm/	victimized	vt. 使受害；使牺牲；欺骗【词频 27113】	/ˈvɪktɪmaɪz/
+vinc/vict	胜，征服	other	vict	victim	n. 受害者【词频 1064】【B4M4】	/ˈvɪktɪm/	victimization	n. 牺牲；欺骗【词频 10715】	/ˌvɪktɪmɪˈzeʃən/
+vinc/vict	胜，征服	other	vict	victim	n. 受害者【词频 1064】【B4M4】	/ˈvɪktɪm/	victimizer	n. 施害者【词频 36500】	/ˈvɪktɪmaɪzə/
+vinc/vict	胜，征服	other	vict	convict	n. 囚犯 vt. 证明… 有罪；宣告… 有罪【词频 3706，12076】【X7M3】	/kənˈvɪkt/	ex-convict	n. 从前曾被判刑的人；[法] 前科犯【词频 31790】	/ˌeksˈkɔnvikt/
+vinc/vict	胜，征服	other	vict	convict	n. 囚犯 vt. 证明… 有罪；宣告… 有罪【词频 3706，12076】【X7M3】	/kənˈvɪkt/	post-conviction	n. 定罪后救济【词频 47805】	/pəust-kənˈvɪkʃ(ə)n/
+vinc/vict	胜，征服	other	vict	evict	vt. 驱逐；逐出【词频 12684】	/ɪˈvɪkt/	evicted	adj. 被驱逐的【词频 54954】	/ɪˈvɪktid/
+vinc/vict	胜，征服	other	vict	evict	vt. 驱逐；逐出【词频 12684】	/ɪˈvɪkt/	eviction	n. 逐出；赶出；收回【词频 16890】	/ɪˈvɪkʃ(ə)n/
+.在这个过程中,比较有挑战性的是如何区分一个单词是主要词,还是次要词,我希望你结合这里面的前缀和后缀,来更好的正则表达式的模式匹配,[
+    "a-", "an-", "ab-", "abs-", "ad-", "ac-", "af-", "ag-", "al-", "an-", "ap-", "ar-", "as-", "at-", 
+    "ambi-", "ante-", "anti-", "arch-", "auto-", 
+    "be-", "bene-", "bi-", "by-", 
+    "circum-", "co-", "col-", "com-", "con-", "contra-", "cor-", "counter-", 
+    "de-", "dec-", "demi-", "di-", "dia-", "dif-", "dis-", "duo-", "dys-", 
+    "eco-", "en-", "em-", "endo-", "epi-", "eu-", "ex-", "exo-", "extra-", 
+    "fore-", 
+    "hemi-", "hetero-", "homo-", "hyper-", 
+    "il-", "im-", "in-", "infra-", "inter-", "intra-", "intro-", "ir-", 
+    "macro-", "mal-", "mega-", "meta-", "micro-", "mid-", "mis-", "mono-", "multi-", 
+    "neo-", "non-", 
+    "ob-", "oc-", "of-", "omni-", "op-", "out-", "over-", 
+    "pan-", "para-", "penta-", "per-", "peri-", "poly-", "post-", "pre-", "pro-", "proto-", "pseudo-", 
+    "quadri-", "quasi-", 
+    "re-", "retro-", 
+    "semi-", "sub-", "super-", "supra-", "sur-", "sym-", "syn-", 
+    "tele-", "trans-", "tri-", 
+    "ultra-", "un-", "under-", "uni-", "up-", 
+    "with-"
+][
+    "-able", "-ible", "-al", "-ial", "-an", "-ian", "-ance", "-ence", "-ancy", "-ency", 
+    "-ant", "-ent", "-ary", "-ery", "-ate", "-dom", "-ee", "-eer", "-en", 
+    "-er", "-or", "-ar", "-ess", "-ful", "-fy", "-hood", "-ic", "-ical", 
+    "-ify", "-ine", "-ing", "-ion", "-tion", "-ation", "-ition", "-ism", 
+    "-ist", "-ite", "-ity", "-ty", "-ive", "-ative", "-itive", "-ize", "-ise", 
+    "-less", "-let", "-like", "-ling", "-ly", "-ment", "-ness", "-oid", 
+    "-ology", "-ous", "-eous", "-ious", "-ose", "-ship", "-some", "-th", 
+    "-ure", "-ward", "-wards", "-wise", "-y"
+]结合这个前缀和后缀
+
+而且我需要你着重考虑两个可能会出错的地方:1.词根变体和它含义拆解,比如3.-vinc-=-vict-胜，征服,它应该拆分为vinc,vict,"胜,征服".2.如何区分主要词和衍生词.一个词,它要么是主要词要么是衍生词,主要词也可能有在词根的基本上有前缀后缀,最重要的特征是,它比其他衍生词更以更短的结构接近词根变体.添加一些调试信息,方便后面调试,给我一个脚本.
+
+

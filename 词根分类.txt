@@ -1,0 +1,301 @@
+词根变体	词根含义	词根分类	3d模型描述
+vi, via	路	动作	蜿蜒道路 (vi, via - 路) - 场景中央的曲折道路，象征旅途。
+mov, mob, mot	移动	动作	移动的骆驼商队 (mov, mob, mot - 移动) - 一队移动的骆驼商队。
+miss, mit	投，送，发	动作	投掷卷轴的信使 (miss, mit - 投，送，发) - 一个信使投掷信息卷轴。
+duct, duc	引导	动作	指向前方的向导 (duct, duc - 引导) - 一个向导指向前方，引导商队。
+ven, vent	来	动作	到达的旅人 (ven, vent - 来) - 一群刚抵达集市的旅人。
+tra, tract, treat	拖，拉，拽	动作	被拉动的货车 (tra, tract, treat - 拖，拉，拽) - 一辆被拉动的货车。
+torn, tour, tourn	转，迂回	动作	旋转的陶轮 (torn, tour, tourn - 转，迂回) - 陶匠旋转的轮子。
+mix, misc, mixt	混杂,混合	动作	混合香料的商人 (mix, misc, mixt - 混杂，混合) - 一个商人在摊位上混合香料。
+ced, ceed, cess	走	动作	步行的朝圣者 (ced, ceed, cess - 走) - 一个步行的朝圣者。
+jec, jac, jet	投掷	动作	抛掷杂耍球的小丑 (jec, jac, jet - 投掷) - 杂耍者抛掷球。
+vers, vert	转	动作	旋转的舞者 (vers, vert - 转) - 一个旋转起舞的舞者。
+port	拿，取	动作	搬运木箱的搬运工 (port - 拿，取) - 一个搬运木箱的搬运工。
+cur, curs, cour, cours	跑	动作	飞奔而过的跑者 (cur, curs, cour, cours - 跑) - 一个跑过人群的跑者。
+rot	轮，转	动作	旋转的水车 (rot - 轮，转) - 一个旋转的水车。
+cast	投掷	动作	发射石头的投石机 (cast - 投掷) - 一个投石机发射石头。
+tribut, tribu	给	动作	分发钱币的税吏 (tribut, tribu - 给) - 一个分发贡金的税吏。
+gest, gist, ger	运送	动作	划船运货的船夫 (gest, gist, ger - 运送) - 一个划船运货的船夫。
+gress, grad, gred, gre	步，走	动作	攀登台阶的旅人 (gress, grad, gred, gre - 步，走) - 一个攀登台阶的旅人。
+vol, volv, volt	滚，转	动作	滚动的木桶 (vol, volv, volt - 滚，转) - 一个滚动的木桶。
+plod, plaud, plex	爆破，鼓掌	动作	鼓掌的表演者 (plod, plaud, plex - 爆破，鼓掌) - 一个鼓掌表演的艺人。
+fer	带来，拿，负担	动作	扛着麻袋的农民 (fer - 带来，拿，负担) - 一个扛着麻袋的农民。
+tend, tens, tent	伸	动作	拉伸的绳桥 (tend, tens, tent - 伸) - 一座拉伸的绳桥。
+tir	拉，引	动作	被拉开的弓弦 (tir - 拉，引) - 一个拉开的弓弦，箭手瞄准。
+it	走	动作	独自行走的游牧民 (it - 走) - 一个独自行走的游牧民。
+migr	迁移	动作	天空中迁徙的鸟群 (migr - 迁移) - 天空上一群迁徙的鸟。
+path, pat, pass, pathy	感受	感知	发光的感知水晶球 (path, pat, pass, pathy - 感受) - 水晶球发出微光，象征感知与情感。
+sci	知	感知	漂浮的知识之书 (sci - 知) - 一本悬浮的书，散发智慧光芒。
+spect, speci, spec, spic, spi, spy	看	感知	瞭望塔上的望远镜 (spect, speci, spec, spic, spi, spy - 看) - 塔上的望远镜用于观察远方。
+vis, vid	看	感知	映出影像的魔法镜子 (vis, vid - 看) - 一面镜子显示模糊的影像。
+fess	说，宣称	感知	宣誓的羊皮卷 (fess - 说，宣称) - 一张写满宣言的卷轴。
+tact, tang, tag, ting, tig, tast	接触	感知	触摸感应发光的魔杖 (tact, tang, tag, ting, tig, tast - 接触) - 触摸时发光的魔法杖。
+ton, tun	声,音调	感知	发出低鸣的音调石碑 (ton, tun - 声，音调) - 石碑发出低沉的音调。
+tain, ten, tin, tent	握,持,守	感知	握着卷轴的手雕像 (tain, ten, tin, tent - 握，持，守) - 一只石手紧握卷轴。
+log, loqu, locut	言，说	感知	燃烧的说话火焰 (log, loqu, locut - 言，说) - 火焰中传出低语。
+rad, ray	光线,辐射	感知	从树梢洒下的光线 (rad, ray - 光线，辐射) - 光线穿透树叶洒下。
+quest, quis, quir, quer	寻问，求	感知	盘旋询问的乌鸦 (quest, quis, quir, quer - 寻问，求) - 乌鸦盘旋并发出疑问的叫声。
+dict, dic	言，说	感知	刻着预言的石板 (dict, dic - 言，说) - 石板上刻有预言文字。
+cogn, gno	知道	感知	认知智慧树 (cogn, gno - 知道) - 一棵散发智慧气息的树。
+phon, phem, fam, phet, fat	声音，说话	感知	回响的音波水晶 (phon, phem, fam, phet, fat - 声音，说话) - 水晶发出回荡的声音。
+light	光，轻，愉快	感知	漂浮的轻盈灯笼 (light - 光，轻，愉快) - 一个漂浮的发光灯笼，象征光明与轻盈。
+opt, ops, opi	采取，眼睛	感知	窥视的猫头鹰眼睛 (opt, ops, opi - 采取，眼睛) - 猫头鹰的眼睛凝视四周。
+mark, marg, march	作记号，边界	感知	刻有记号的界碑 (mark, marg, march - 作记号，边界) - 一块标示边界的石碑。
+parl	说，谈	感知	口吐人言的鹦鹉 (parl - 说，谈) - 一只鹦鹉模仿人声说话。
+matr, metro, mater	母	感知	巨大的母树 (matr, metro, mater - 母) - 一棵巨大的树，象征母亲般的庇护。
+monstr	显示，显现	感知	显现幻象的镜子 (monstr - 显示，显现) - 镜子中浮现神秘幻象。
+claim, clam	喊叫	感知	咆哮的石狮 (claim, clam - 喊叫) - 一只石狮发出咆哮。
+cant, cent, chant, chans	歌唱	感知	歌唱的风铃塔 (cant, cent, chant, chans - 歌唱) - 风铃塔随风发出歌声。
+nounc, nunc	说，告	感知	宣告信息的瞭望钟 (nounc, nunc - 说，告) - 一座钟敲响时发出宣告。
+mat	成熟	感知	成熟的发光果实 (mat - 成熟) - 树上挂着一颗成熟的发光果实。
+serv, serf	观看，服务，保留	感知	守护瞭望的哨兵 (serv, serf - 观看，服务，保留) - 一名哨兵守护并观察四周。
+form	形式，格式，形成	构建	几何形式的控制台 (form - 形式，格式，形成) - 一个具有规则几何形状的控制台。
+struct	建造	构建	正在组装的机械塔 (struct - 建造) - 一座正在搭建的机械塔。
+pear, par	生	构建	孕育生命的孵化舱 (pear, par - 生) - 一个培养生命的舱体。
+erg, org, urg	做，工作	构建	旋转的工作机械臂 (erg, org, urg - 做，工作) - 一个忙碌工作的机械臂。
+ple, plet, pli, ply, plen	装满	构建	充满能源的储存罐 (ple, plet, pli, ply, plen - 装满) - 一个装满能源的罐体。
+sum, sumpt	最高，总，拿	构建	最高的瞭望塔 (sum, sumpt - 最高，总，拿) - 空间站最高的瞭望结构。
+sert	放置,结合	构建	嵌入墙壁的零件架 (sert - 放置，结合) - 一个将零件嵌入墙壁的架子。
+scen	设置	构建	布置的指挥平台 (scen - 设置) - 一个精心布置的指挥中心。
+part	分，部分	构建	分离的浮空平台 (part - 分，部分) - 一块从主站分离的浮台。
+pand, pans	展开	构建	展开的太阳能板 (pand, pans - 展开) - 一片展开吸收能量的太阳能板。
+ag, act, ig	驱使；做	构建	驱动引擎 (ag, act, ig - 驱使；做) - 一台驱动空间站的引擎。
+fac, fec, fic, feas, feit, feat, fit	做	构建	制作工具的3D打印机 (fac, fec, fic, feas, feit, feat, fit - 做) - 一台打印工具的机器。
+pon, pound, pos	放置	构建	放置舱门的货箱 (pon, pound, pos - 放置) - 一个放置在舱门旁的货箱。
+eco, ecu, oce	住所，经济，生态	构建	生态居住舱 (eco, ecu, oce - 住所，经济，生态) - 一个模拟生态的居住舱。
+nav, nau, naut	船，航行，海员	构建	停靠的宇宙飞船 (nav, nau, naut - 船，航行，海员) - 一艘停靠的飞船。
+ali, all	其它	构建	外星样本箱 (ali, all - 其它) - 一个装有外星样本的箱子。
+tele	远	构建	远程通讯天线 (tele - 远) - 一个指向远方的通讯天线。
+fund, found	底，基础	构建	深埋地基的支撑柱 (fund, found - 底，基础) - 一根稳固空间站的基柱。
+ess, esse, sent, terest	存在	构建	存在的全息投影仪 (ess, esse, sent, terest - 存在) - 一个投影存在的影像设备。
+tect, teg	掩盖，掩护	构建	遮盖的防护罩 (tect, teg - 掩盖，掩护) - 一个保护设备的防护罩。
+commod	便利，方便	构建	便利的自动梯 (commod - 便利，方便) - 一架方便移动的自动梯。
+colon, col	栖息	构建	殖民居住区 (colon, col - 栖息) - 一片供殖民者居住的区域。
+brev	短	构建	短型信息屏幕 (brev - 短) - 一个显示简短信息的屏幕。
+fus, fut, fund, found	熔化；倾倒	构建	熔炉倾倒金属液 (fus, fut, fund, found - 熔化；倾倒) - 一个熔化并倾倒金属的熔炉。
+mod	量器	构建	测量仪表的调节器 (mod - 量器) - 一个用于测量的调节仪表。
+rect	正，直	空间	笔直的瞭望塔 (rect - 正，直) - 一座笔直耸立的瞭望塔。
+vac, vacu, van, void, vain	空	空间	悬空的透明平台 (vac, vacu, van, void, vain - 空) - 一个空荡透明的悬浮平台。
+medi	中间	空间	中间的浮桥 (medi - 中间) - 一座连接两岛的中间浮桥。
+helic	旋	空间	旋转的风车 (helic - 旋) - 一架旋转的风车，象征螺旋。
+cept, cap, capt, ceiv, ceit, cip, cup	拿,抓	空间	抓取货物的机械爪 (cept, cap, capt, ceiv, ceit, cip, cup - 拿，抓) - 一个抓取货物的机械爪。
+circ, cycl	圆	空间	圆形水池 (circ, cycl - 圆) - 一个完美的圆形水池。
+loc	地方	空间	标记地点的手绘地图 (loc - 地方) - 一张标有地点的地图。
+centr	中心	空间	中心的巨型水晶 (centr - 中心) - 一块位于核心的巨大水晶。
+scape	形状	空间	形状奇异的云雕 (scape - 形状) - 一片雕刻成奇形怪状的云。
+orb	圆	空间	圆形瞭望台 (orb - 圆) - 一个圆形的瞭望平台。
+place	放，地方	空间	放置石碑的基座 (place - 放，地方) - 一个放置纪念石碑的基座。
+velop	包，裹，卷	空间	包裹雾气的浮石 (velop - 包，裹，卷) - 一块被雾气包裹的漂浮石。
+vast, wast	空，荒废	空间	荒废的巨大空地 (vast, wast - 空，荒废) - 一片空旷荒废的区域。
+latitud, lati, latis	宽	空间	宽阔的天空跑道 (latitud, lati, latis - 宽) - 一条宽广的空中跑道。
+equ, iqu	相等	空间	平衡的等重天平 (equ, iqu - 相等) - 一个保持平衡的天平。
+spher	球，圈，层	空间	球形瞭望舱 (spher - 球，圈，层) - 一个球形的瞭望舱。
+coast, cost	肋骨，旁边,边	空间	靠边的悬崖护栏 (coast, cost - 肋骨，旁边，边) - 一个靠边缘的护栏。
+cern, cret, creet, cre	辨别	空间	辨识符号的旗帜 (cern, cret, creet, cre - 辨别) - 一面带有辨识符号的旗帜。
+plain, plaint	打	空间	被敲平的石板 (plain, plaint - 打) - 一块被敲打平整的石板。
+glob, glom	球	空间	球形漂浮灯 (glob, glom - 球) - 一个漂浮的球形灯。
+alter, altern	改变，替换	空间	可切换方向的风向标 (alter, altern - 改变，替换) - 一个可改变方向的风向标。
+limit, limin, lim	界限	空间	界限分明的围栏 (limit, limin, lim - 界限) - 一条清晰划分界限的围栏。
+par, pair, per, pir, peer	相等	空间	对称的镜面池 (par, pair, per, pir, peer - 相等) - 一个对称的镜面水池。
+divid, divis	分	空间	分割的浮岛 (divid, divis - 分) - 一片被分割开的浮岛。
+car, char	车	空间	悬浮运输车 (car, char - 车) - 一辆悬浮在空中的运输车。
+dit, dat, dot, don, dow, dos	给	力量	熔炉递送铁块的手臂 (dit, dat, dot, don, dow, dos - 给) - 一个递送材料的机械手臂。
+emper, imper	命令	力量	命令塔上的号角 (emper, imper - 命令) - 一支发出命令的号角。
+pend, pens, pond, penc	悬挂,称量,花费	力量	悬挂的铁链 (pend, pens, pond, penc - 悬挂，称量，花费) - 一串悬挂在空中的铁链。
+vinc, vict	胜，征服	力量	胜利的战旗 (vinc, vict - 胜，征服) - 一面象征胜利的旗帜。
+press	压，按	力量	压平金属的巨锤 (press - 压，按) - 一把压平金属的大锤。
+sit, sid, sed, sess	坐	力量	沉重的石座 (sit, sid, sed, sess - 坐) - 一个沉重稳固的石座。
+strain, strict, stress, string, strang	拉紧	力量	拉紧的熔岩索桥 (strain, strict, stress, string, strang - 拉紧) - 一座被拉紧的索桥。
+fasc	捆，束	力量	捆绑的木柴 (fasc - 捆，束) - 一捆捆绑好的木柴。
+clud, clus, clos, clois, claus, clot	关闭	力量	关闭的铁门 (clud, clus, clos, clois, claus, clot - 关闭) - 一扇紧闭的铁门。
+solv, solu, solut	解，松的	力量	松开的绳结 (solv, solu, solut - 解，松的) - 一个被解开的绳结。
+flagr, flam	燃烧，火焰	力量	燃烧的熔岩火球 (flagr, flam - 燃烧，火焰) - 一团炽热的熔岩火球。
+fend, fens	打击	力量	打击铁砧的锤子 (fend, fens - 打击) - 一柄敲打铁砧的锤子。
+nect, nex	结，系	力量	系紧的绳索 (nect, nex - 结，系) - 一根系紧货物的绳索。
+viol	力，暴力	力量	暴力砍劈的巨斧 (viol - 力，暴力) - 一把用力劈砍的巨斧。
+rupt	破	力量	破碎的石墙 (rupt - 破) - 一块被打破的石墙。
+li, lig, ly, leag	绑	力量	绑紧的铁环 (li, lig, ly, leag - 绑) - 一圈绑紧的铁环。
+tort, tor	扭，拧	力量	拧紧的螺旋钻 (tort, tor - 扭，拧) - 一个拧紧的螺旋钻头。
+sal, salt	盐	力量	盐晶矿石堆 (sal, salt - 盐) - 一堆闪耀的盐晶矿石。
+val	强	力量	强力的钢盾 (val - 强) - 一面坚韧的钢盾。
+fisc	国库	力量	国库金箱 (fisc - 国库) - 一个装满金币的国库箱。
+firm	坚固，固定	力量	坚固的支撑柱 (firm - 坚固，固定) - 一根稳固支撑的柱子。
+add	加，加上	力量	添加燃料的煤炭 (add - 加，加上) - 一块被添加进熔炉的煤炭。
+pot, poss, pow	力量，能力	力量	展示力量的雕像 (pot, poss, pow - 力量，能力) - 一尊展示力量的战士雕像。
+forc, fort	力量，强壮	力量	强壮的瞭望塔 (forc, fort - 力量，强壮) - 一座强壮的瞭望塔。
+prehend, prehens	抓住	力量	抓住铁链的机械爪 (prehend, prehens - 抓住) - 一个抓住铁链的机械爪。
+plic, ply, pli, ple, plex, plo	倍,重,折叠	情感	折叠的节日彩带 (plic, ply, pli, ple, plex, plo - 倍，重，折叠) - 一叠折叠起来的彩带。
+lax	松弛，放松	情感	松弛垂下的帐篷布 (lax - 松弛，放松) - 一块松弛垂在帐篷上的布料。
+fortun	财富	情感	财富金币箱 (fortun - 财富) - 一个装满金币的宝箱。
+noc, nox, nui, nec	伤害	情感	破损长矛 (noc, nox, nui, nec - 伤害) - 一把插在地上的受损长矛。
+anxi	紧张，不安	情感	紧绷的拉弓弦 (anxi - 紧张，不安) - 一根拉紧的弓弦，象征紧张。
+sur	确定	情感	确认誓言的石碑 (sur - 确定) - 一块刻有誓言的石碑。
+grat, grac, gree	感谢	情感	感恩献上的鲜花 (grat, grac, gree - 感谢) - 一束献上的感恩花束。
+hor	怕	情感	惊恐飞散的乌鸦 (hor - 怕) - 一只因恐惧而飞散的乌鸦。
+obsolesc, obsolet	成长，长大	情感	成长中的橡树 (obsolesc, obsolet - 成长，长大) - 一棵茁壮成长的橡树。
+am, amor, amat	爱,情爱	情感	燃烧的爱心火炬 (am, amor, amat - 爱，情爱) - 一支燃烧着心形火焰的火炬。
+terr	惊吓	情感	受惊跳跃的兔子 (terr - 惊吓) - 一只被吓得跳起的兔子。
+damn, demn	惩罚，伤害	情感	惩罚用的木枷 (damn, demn - 惩罚，伤害) - 一个锁住双手的木枷。
+honor, hono, honest	荣誉	情感	荣誉飘扬的旗帜 (honor, hono, honest - 荣誉) - 一面高高飘扬的荣誉旗。
+optim	最好的	情感	最闪亮的金苹果 (optim - 最好的) - 一颗闪耀的最佳苹果。
+plor	流出，哀叫，哀叹	情感	流泪的蜡烛 (plor - 流出，哀叫，哀叹) - 一串滴下蜡泪的蜡烛。
+apt, ept, att	适当，适应	情感	合身的节日长袍 (apt, ept, att - 适当，适应) - 一件合身的节日服装。
+sat, satis, satur	足，满，饱	情感	堆满食物的宴会桌 (sat, satis, satur - 足，满，饱) - 一张满载美食的桌子。
+vol, volunt	意志，意愿	情感	象征意志的权杖 (vol, volunt - 意志，意愿) - 一根代表意志的权杖。
+pan	面包	情感	刚出炉的面包 (pan - 面包) - 一块热腾腾的面包。
+turb, turbul	骚乱，骚扰	情感	混乱翻倒的酒桶 (turb, turbul - 骚乱，骚扰) - 一堆翻倒的酒桶，象征骚乱。
+roma	罗马	情感	罗马风格的雕像 (roma - 罗马) - 一座仿罗马风格的雕像。
+clar, clear, clair	清楚，明白	情感	明亮的澄清灯笼 (clar, clear, clair - 清楚，明白) - 一盏照亮一切的灯笼。
+fid, fi, fy, feder, feal	相信	情感	忠诚的看门犬 (fid, fi, fy, feder, feal - 相信) - 一只忠诚守门的狗。
+typ	打击,压印	情感	被敲打的金属徽章 (typ - 打击，压印) - 一块被敲打成型的徽章。
+norm	规范，正规，正常	情感	摆放整齐的规则书 (norm - 规范，正规，正常) - 一本整齐摆放的规则书。
+stinct, sting, sti	刺，扑灭	社会	刺向天空的尖矛 (stinct, sting, sti - 刺，扑灭) - 一根直刺天空的矛。
+lect, lig, leg, legis	采集，读，说，法律	社会	法律卷轴 (lect, lig, leg, legis - 采集，读，说，法律) - 一卷记录法律的卷轴。
+preci, prais, pric, priz	价值	社会	镶嵌珍贵宝石的石碑 (preci, prais, pric, priz - 价值) - 一块装饰珍贵宝石的石碑。
+urb	城市	社会	城市模型 (urb - 城市) - 一个展示城市布局的模型。
+arch, archa	统治，起始	社会	统治者的高大雕像 (arch, archa - 统治，起始) - 一座统治者的巨型雕像。
+order, ord, ordin, ordain	命令	社会	刻有命令的石板 (order, ord, ordin, ordain - 命令) - 一块刻有命令的石板。
+milit	兵	社会	士兵盔甲排 (milit - 兵) - 一排整齐的士兵盔甲。
+jur, jud, jus	法律	社会	法庭天平 (jur, jud, jus - 法律) - 一座象征司法的天平。
+pun, poen, pain, penal, pent	惩罚	社会	惩罚用的鞭子 (pun, poen, pain, penal, pent - 惩罚) - 一根悬挂的惩罚鞭子。
+dom, domat, domin	屋，统治	社会	带圆顶的统治大厅 (dom, domat, domin - 屋，统治) - 一座圆顶统治大厅。
+crim, crimin	控诉,罪行	社会	控诉罪行的告示牌 (crim, crimin - 控诉，罪行) - 一块写有罪行的告示牌。
+us, uti, ut	使用	社会	使用中的石磨 (us, uti, ut - 使用) - 一套正在使用的石磨。
+polit, polic, polis	城市	社会	政治集会台 (polit, polic, polis - 城市) - 一座政治演讲的平台。
+reg	规则，统治	社会	象征规则的权杖 (reg - 规则，统治) - 一根代表规则的权杖。
+civ, cit	公民，城市	社会	公民身份的旗帜 (civ, cit - 公民，城市) - 一面象征公民的旗帜。
+gubern, govern	管理，统治	社会	管理用的瞭望塔 (gubern, govern - 管理，统治) - 一座用于管理的瞭望塔。
+maj, max, magn	伟大，壮大	社会	宏伟的大理石拱门 (maj, max, magn - 伟大，壮大) - 一座壮观的大理石拱门。
+mon	提醒，警告，单一，公共	社会	警告用的铜锣 (mon - 提醒，警告，单一，公共) - 一块敲响警告的铜锣。
+mand, mend	命令	社会	命令书卷 (mand, mend - 命令) - 一卷写有命令的书卷。
+mun	公共	社会	公共喷泉 (mun - 公共) - 一座供公众使用的喷泉。
+soci	同伴，联合，结合	社会	联合欢呼的人偶 (soci - 同伴，联合，结合) - 一群象征团结的人偶。
+popul, publ	人民	社会	人民集会的露台 (popul, publ - 人民) - 一座人民聚集的露台。
+put, count	数，计算，考虑	社会	计算税收的算盘 (put, count - 数，计算，考虑) - 一台用于计算的算盘。
+main, man	停驻	社会	停驻的瞭望哨 (main, man - 停驻) - 一座停驻瞭望的哨塔。
+min	小	社会	小型瞭望模型 (min - 小) - 一个小型的瞭望塔模型。
+cit, cite, citat	召唤	身体	召唤用的号角 (cit, cite, citat - 召唤) - 一支吹响召唤的号角。
+nat, nasc, naiss, naiv	出生	身体	新生幼苗 (nat, nasc, naiss, naiv - 出生) - 一颗刚破土的新苗。
+st, sist, stat, stin, stem	立，站	身体	站立的石像 (st, sist, stat, stin, stem - 立，站) - 一尊直立的石像。
+gorg	吞咽	身体	吞咽形状的树根 (gorg - 吞咽) - 一段形似吞咽的树根。
+fac, fic, front	面部,正面，前额	身体	雕刻面部的木盾 (fac, fic, front - 面部，正面，前额) - 一面刻有面部的盾牌。
+ped, pod, patch	脚	身体	脚印石板 (ped, pod, patch - 脚) - 一块带有脚印的石板。
+od	路	身体	蜿蜒小路 (od - 路) - 一条蜿蜒穿过森林的小路。
+nerv, neur	神经	身体	发光的神经藤蔓 (nerv, neur - 神经) - 一根发光如神经的藤蔓。
+manu, man	手	身体	握着果实的手雕像 (manu, man - 手) - 一只握着果实的手形雕像。
+capit, cap, cep, chapt, cip, chef, chief, cephal	头	身体	头骨装饰的王冠 (capit, cap, cep, chapt, cip, chef, chief, cephal - 头) - 一顶装饰头骨的王冠。
+fan, phan	幻影，幻象	身体	漂浮的幻影雾气 (fan, phan - 幻影，幻象) - 一团模糊的幻影雾气。
+pneum	肺	身体	肺形树叶 (pneum - 肺) - 一对形似肺部的树叶。
+bronch	气管	身体	气管状树枝 (bronch - 气管) - 一根形似气管的树枝。
+cancer, cancr	螃蟹，癌症	身体	螃蟹石雕 (cancer, cancr - 螃蟹，癌症) - 一只雕刻的螃蟹石像。
+gymn	运动，体育	身体	运动用的木梯 (gymn - 运动，体育) - 一架用于攀爬的木梯。
+aud	听	身体	聆听的巨耳 (aud - 听) - 一只放大聆听的耳朵雕像。
+cor, card, cour	心（脏）	身体	心形红宝石 (cor, card, cour - 心（脏）) - 一颗形似心脏的红宝石。
+habit, hibit	拥有，占据，居住	身体	居住用的小木屋 (habit, hibit - 拥有，占据，居住) - 一座供居住的小木屋。
+fare	去	身体	迈向远方的靴子 (fare - 去) - 一双迈步远行的靴子。
+mort, mors, mor	死	身体	刻有死亡符号的墓碑 (mort, mors, mor - 死) - 一块刻有死亡符号的墓碑。
+carn	肉	身体	肉形蘑菇 (carn - 肉) - 一块形似肉的蘑菇。
+mamm	乳房	身体	乳房状果实 (mamm - 乳房) - 一对形似乳房的果实。
+hospit, host	客人，主人，敌人	身体	欢迎客人的拱门 (hospit, host - 客人，主人，敌人) - 一座欢迎来客的拱门。
+hom, hum	人；土地；人类；卑下；湿	身体	人类雕像 (hom, hum - 人；土地；人类；卑下；湿) - 一尊象征人类的雕像。
+clin, cli, cliv	倾	身体	倾斜的疗愈石床 (clin, cli, cliv - 倾) - 一块倾斜的疗愈石床。
+par	准备	时间	准备好的沙漏堆 (par - 准备) - 一堆准备计时的沙漏。
+temper, tempor	时间	时间	巨大的时间钟盘 (temper, tempor - 时间) - 一座巨大的钟盘显示时间。
+seri	重要	时间	重要的日晷刻盘 (seri - 重要) - 一块刻有重要标记的日晷。
+lat	拿，持，带来，搬运,担负	时间	搬运时间的长杆 (lat - 拿，持，带来，搬运，担负) - 一根搬运时间工具的长杆。
+peri, pert	试验，尝试	时间	尝试运转的实验齿轮 (peri, pert - 试验，尝试) - 一台尝试运行的齿轮装置。
+journ	一天	时间	记录一天的日记 (journ - 一天) - 一本记录每日时间的日记。
+proach, proxim	接近	时间	接近倒塌的拱桥 (proach, proxim - 接近) - 一座接近崩塌的拱桥。
+fin	终结，末尾，界限	时间	终结标记的石碑 (fin - 终结，末尾，界限) - 一块标记终点的石碑。
+van, advance, advant	前，先	时间	领先飘扬的旗帜 (van, advance, advant - 前，先) - 一面领先时间的旗帜。
+frequen, frequent	反复	时间	反复摆动的钟摆 (frequen, frequent - 反复) - 一组反复摆动的钟摆。
+di	日	时间	日光灯笼 (di - 日) - 一盏象征日光的灯笼。
+rar	稀有	时间	稀有时间水晶 (rar - 稀有) - 一块罕见的时间水晶。
+prim, prem, prin, pri	第一	时间	第一刻度的标杆 (prim, prem, prin, pri - 第一) - 一根标记第一时间的标杆。
+cad, cas, cid	降落	时间	降落的钟塔碎片 (cad, cas, cid - 降落) - 一片从钟塔降落的碎片。
+rang, rank	排列,顺序	时间	排列整齐的齿轮 (rang, rank - 排列，顺序) - 一列按顺序排列的齿轮。
+term, termin	限定，界线，末端	时间	限定时间的界碑 (term, termin - 限定，界线，末端) - 一块限定时间的界碑。
+un, uni	整体；联合	时间	联合时间的圆形石台 (un, uni - 整体；联合) - 一座联合时间刻度的石台。
+var	变	时间	变幻颜色的水晶 (var - 变) - 一块颜色变化的水晶。
+ori, ort, orig	升起	时间	升起的太阳雕像 (ori, ort, orig - 升起) - 一座象征日出的太阳雕像。
+ann, enn	年	时间	年轮树桩 (ann, enn - 年) - 一圈显示年份的树桩。
+person, parson	人	时间	守护时间的守卫雕像 (person, parson - 人) - 一尊守护时间的守卫雕像。
+tempt, tent	尝试，触摸	时间	尝试触碰的探针 (tempt, tent - 尝试，触摸) - 一根尝试触碰时间的探针。
+ultim	最后	时间	最后的倒计时石板 (ultim - 最后) - 一块标记最后时刻的石板。
+pet, pit, peat	追求	时间	追求时间的羽毛笔 (pet, pit, peat - 追求) - 一支追求时间记录的羽毛笔。
+meter, metr, meas, mens	计量,测量	时间	测量时间的古董仪器 (meter, metr, meas, mens - 计量，测量) - 一台古老的测量仪器。
+doc，-doct	教	思想	教学用的讲台 (doc, -doct - 教) - 一座用于传授知识的讲台。
+script, scrib, scrip	写，刻写	思想	刻写文字的羽毛笔 (script, scrib, scrip - 写，刻写) - 一支刻写文字的羽毛笔。
+sim, sem, simil, simul, sembl	相似	思想	相似形状的书架 (sim, sem, simil, simul, sembl - 相似) - 一对形状相似的书架。
+discip	法则	思想	法则书 (discip - 法则) - 一卷记录法则的书。
+sign	设计	思想	设计精美的石牌 (sign - 设计) - 一块雕刻精美的石牌。
+verb	字，词	思想	堆叠的词语卡片 (verb - 字，词) - 一堆写满词语的卡片。
+rat, ratio	计算，推定，理由	思想	计算用的算盘 (rat, ratio - 计算，推定，理由) - 一台用于计算的算盘。
+class	分类，等级	思想	分类标签的书箱 (class - 分类，等级) - 一组贴有分类标签的书箱。
+real	现实	思想	现实景象的镜子 (real - 现实) - 一面映出现实的镜子。
+graph, gram	写，画，文字，图形	思想	图形壁画 (graph, gram - 写，画，文字，图形) - 一幅墙上的图形壁画。
+histor	叙事，历史	思想	历史记录卷轴 (histor - 叙事，历史) - 一卷记录历史的卷轴。
+cruc, cruis, crus, crux	十字	思想	十字形书架 (cruc, cruis, crus, crux - 十字) - 一座十字形状的书架。
+caus	导致，原因	思想	点燃原因的火炬 (caus - 导致，原因) - 一根点燃象征原因的火炬。
+soph	智慧	思想	智慧雕像 (soph - 智慧) - 一尊象征智慧的雕像。
+merg, mers	沉，没	思想	沉入水中的书页 (merg, mers - 沉，没) - 一页沉入水中的书纸。
+quant	量，数量	思想	数量标记的石子堆 (quant - 量，数量) - 一堆标有数量的石子。
+qual	性质，特征	思想	展示特征的彩石 (qual - 性质，特征) - 一块展示特征的彩色石头。
+myst, myth	神秘	思想	神秘雾气 (myst, myth - 神秘) - 一团环绕书架的神秘雾气。
+ident	相同	思想	相同图案的烛台 (ident - 相同) - 一对图案相同的烛台。
+lingu	语言	思想	语言字典 (lingu - 语言) - 一本厚重的语言字典。
+crit, cris	判断	思想	判断天平 (crit, cris - 判断) - 一座用于判断的天平。
+memor, ment, mind	记忆	思想	记忆卷轴 (memor, ment, mind - 记忆) - 一卷记录记忆的卷轴。
+cert	确实	思想	确实无误的印章 (cert - 确实) - 一块盖有确认印章的石板。
+quaint	认知	思想	认知用的望远镜 (quaint - 认知) - 一台用于认知观察的望远镜。
+caut	仔细	思想	仔细检查的提灯(caut - 仔细 )
+pict, paint	画，图片，照片	艺术	绘制的油画 (pict, paint - 画，图片，照片) - 一幅色彩丰富的油画。
+pollut	脏	艺术	沾染颜料的脏布 (pollut - 脏) - 一块沾满颜料的脏布。
+album	白色	艺术	白色画布 (album - 白色) - 一张纯白的画布。
+imag, imit	图像	艺术	模仿大师的画像 (imag, imit - 图像) - 一面模仿名画的画像。
+draw	画	艺术	画图的炭笔 (draw - 画) - 一支用于素描的炭笔。
+bar, bal, ban	长木条，障碍	艺术	木制画框横条 (bar, bal, ban - 长木条，障碍) - 一根木制画框的横条。
+techn	技术，艺术	艺术	技术精湛的织布机 (techn - 技术，艺术) - 一台展示技艺的织布机。
+mus	音乐，娱乐	艺术	弹奏的鲁特琴 (mus - 音乐，娱乐) - 一把正在弹奏的鲁特琴。
+liter	文字	艺术	手写文字卷轴 (liter - 文字) - 一卷手写的文字卷轴。
+haust	抽出	艺术	抽取颜料的吸管 (haust - 抽出) - 一支抽取颜料的吸管。
+cent	百	艺术	百花装饰的雕像 (cent - 百) - 一座装饰百花的雕像。
+orches	跳舞	艺术	跳舞人偶 (orches - 跳舞) - 一对跳舞的木制人偶。
+ball, balo, bol	抛,舞,球	艺术	抛起的舞会彩球 (ball, balo, bol - 抛，舞，球) - 一颗抛起的彩色舞会球。
+art, arthr	艺术，关节	艺术	关节灵活的木人模型 (art, arthr - 艺术，关节) - 一尊关节可动的木人模型。
+celebr	赞美，名望	艺术	赞美艺术的旗帜 (celebr - 赞美，名望) - 一面赞颂艺术的旗帜。
+cult	耕作	艺术	耕耘图案的陶板 (cult - 耕作) - 一块刻有耕作图案的陶板。
+magist, master	掌控	艺术	掌控全局的指挥台 (magist, master - 掌控) - 一座掌控工作坊的指挥台。
+drama	戏剧	艺术	戏剧布景 (drama - 戏剧) - 一幕戏剧表演的布景。
+sect, sec, seg	切	艺术	切割木头的锯子 (sect, sec, seg - 切) - 一把切割木材的锯子。
+sculpt	雕刻	艺术	雕刻中的大理石像 (sculpt - 雕刻) - 一尊正在雕刻的大理石像。
+rid, ris	笑	艺术	笑脸面具 (rid, ris - 笑) - 一张雕刻笑脸的面具。
+tach, tack	钉，扣件	艺术	钉住画布的钉子 (tach, tack - 钉，扣件) - 一根固定画布的钉子。
+sec, sequ, secut, su	跟随	艺术	跟随大师的画笔 (sec, sequ, secut, su - 跟随) - 一列跟随大师风格的画笔。
+lys, lyt	分，解，溶，散	艺术	溶解颜料的溶液 (lys, lyt - 分，解，溶，散) - 一瓶溶解颜料的溶液。
+cur	关心，挂念，注意	艺术	关注细节的烛灯 (cur - 关心，挂念，注意) - 一盏用于关注细节的烛灯。
+plant	种植	自然	种植的小树苗 (plant - 种植) - 一株刚种下的小树苗。
+bot	种植，植物	自然	绽放的植物 (bot - 种植，植物) - 一盆盛开的植物。
+cover	覆盖，掩盖	自然	覆盖岩石的苔藓 (cover - 覆盖，掩盖) - 一片覆盖在岩石上的苔藓。
+gen, gn, gener, gent	出生	自然	新生种子 (gen, gn, gener, gent - 出生) - 一颗刚萌芽的种子。
+cre, cresc, cret	增长，生长，产生	自然	生长中的藤蔓 (cre, cresc, cret - 增长，生长，产生) - 一根向上生长的藤蔓。
+alesc, alit, olesc	养育，成长	自然	养育幼苗的大树 (alesc, alit, olesc - 养育，成长) - 一棵庇护幼苗的大树。
+camp	田野，场所	自然	开阔的田野 (camp - 田野，场所) - 一片广阔的田野。
+rud	原始，粗野	自然	粗野的原始石块 (rud - 原始，粗野) - 一块未经雕琢的原始石头。
+flu, flux	流	自然	流动的瀑布 (flu, flux - 流) - 一条奔流的瀑布。
+viv, vit, veg	活	自然	充满活力的花朵 (viv, vit, veg - 活) - 一株充满生命力的花朵。
+liqu	液体	自然	液体水潭 (liqu - 液体) - 一池清澈的液体水潭。
+electr	电	自然	闪烁的电光 (electr - 电) - 一道跳跃的电光。
+sol	单独，太阳	自然	孤立的太阳雕像 (sol - 单独，太阳) - 一座孤独的太阳雕像。
+cosm	宇宙	自然	宇宙星盘 (cosm - 宇宙) - 一座展示宇宙的星盘。
+aster, astr	星星	自然	悬浮的星星水晶 (aster, astr - 星星) - 一颗漂浮的星形水晶。
+trop	转	自然	旋转的风向标 (trop - 转) - 一根旋转的风向标。
+carb	碳	自然	碳化树皮 (carb - 碳) - 一块含有碳元素的树皮。
+oxy, oxia, oxic	尖锐，敏锐，氧	自然	尖锐氧气雾气 (oxy, oxia, oxic - 尖锐，敏锐，氧) - 一团象征氧气的雾气。
+chem	化学	自然	化学试剂瓶 (chem - 化学) - 一瓶冒泡的化学试剂。
+viron	环路	自然	环形藤蔓圈 (viron - 环路) - 一圈环绕的藤蔓。
+freeze, frig, friger	冷，冰冻	自然	冰冻的霜石 (freeze, frig, friger - 冷，冰冻) - 一块覆盖冰霜的石头。
+bi	生命	自然	生命之蝶 (bi - 生命) - 一只翩翩起舞的蝴蝶。
+zo	动物	自然	奔跑的动物雕像 (zo - 动物) - 一尊奔跑的动物雕像。
+phys	自然，物理	自然	自然物理石碑 (phys - 自然，物理) - 一块刻有自然规律的石碑。
+cav	洞，空	自然	深邃的岩洞 (cav - 洞，空) - 一个深邃的岩石洞穴。

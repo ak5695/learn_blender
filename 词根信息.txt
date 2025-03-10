@@ -1,0 +1,323 @@
+词根变体	词根含义	词根分类
+vi, via	路	动作
+mov, mob, mot	移动	动作
+miss, mit	投，送，发	动作
+duct, duc	引导	动作
+ven, vent	来	动作
+tra, tract, treat	拖，拉，拽	动作
+torn, tour, tourn	转，迂回	动作
+mix, misc, mixt	混杂,混合	动作
+ced, ceed, cess	走	动作
+jec, jac, jet	投掷	动作
+vers, vert	转	动作
+port	拿，取	动作
+cur, curs, cour, cours	跑	动作
+rot	轮，转	动作
+cast	投掷	动作
+tribut, tribu	给	动作
+gest, gist, ger	运送	动作
+gress, grad, gred, gre	步，走	动作
+vol, volv, volt	滚，转	动作
+plod, plaud, plex	爆破，鼓掌	动作
+fer	带来，拿，负担	动作
+tend, tens, tent	伸	动作
+tir	拉，引	动作
+it	走	动作
+migr	迁移	动作
+
+词根变体	词根含义	词根分类
+path, pat, pass, pathy	感受	感知
+sci	知	感知
+spect, speci, spec, spic, spi, spy	看	感知
+vis, vid	看	感知
+fess	说，宣称	感知
+tact, tang, tag, ting, tig, tast	接触	感知
+ton, tun	声,音调	感知
+tain, ten, tin, tent	握,持,守	感知
+log, loqu, locut	言，说	感知
+rad, ray	光线,辐射	感知
+quest, quis, quir, quer	寻问，求	感知
+dict, dic	言，说	感知
+cogn, gno	知道	感知
+phon, phem, fam, phet, fat	声音，说话	感知
+light	光，轻，愉快	感知
+opt, ops, opi	采取，眼睛	感知
+mark, marg, march	作记号，边界	感知
+parl	说，谈	感知
+matr, metro, mater	母	感知
+monstr	显示，显现	感知
+claim, clam	喊叫	感知
+cant, cent, chant, chans	歌唱	感知
+nounc, nunc	说，告	感知
+mat	成熟	感知
+serv, serf	观看，服务，保留	感知
+
+词根变体	词根含义	词根分类
+form	形式，格式，形成	构建
+struct	建造	构建
+pear, par	生	构建
+erg, org, urg	做，工作	构建
+ple, plet, pli, ply, plen	装满	构建
+sum, sumpt	最高，总，拿	构建
+sert	放置,结合	构建
+scen	设置	构建
+part	分，部分	构建
+pand, pans	展开	构建
+ag, act, ig	驱使；做	构建
+fac, fec, fic, feas, feit, feat, fit	做	构建
+pon, pound, pos	放置	构建
+eco, ecu, oce	住所，经济，生态	构建
+nav, nau, naut	船，航行，海员	构建
+ali, all	其它	构建
+tele	远	构建
+fund, found	底，基础	构建
+ess, esse, sent, terest	存在	构建
+tect, teg	掩盖，掩护	构建
+commod	便利，方便	构建
+colon, col	栖息	构建
+brev	短	构建
+fus, fut, fund, found	熔化；倾倒	构建
+mod	量器	构建
+
+词根变体	词根含义	词根分类
+rect	正，直	空间
+vac, vacu, van, void, vain	空	空间
+medi	中间	空间
+helic	旋	空间
+cept, cap, capt, ceiv, ceit, cip, cup	拿,抓	空间
+circ, cycl	圆	空间
+loc	地方	空间
+centr	中心	空间
+scape	形状	空间
+orb	圆	空间
+place	放，地方	空间
+velop	包，裹，卷	空间
+vast, wast	空，荒废	空间
+latitud, lati, latis	宽	空间
+equ, iqu	相等	空间
+spher	球，圈，层	空间
+coast, cost	肋骨，旁边,边	空间
+cern, cret, creet, cre	辨别	空间
+plain, plaint	打	空间
+glob, glom	球	空间
+alter, altern	改变，替换	空间
+limit, limin, lim	界限	空间
+par, pair, per, pir, peer	相等	空间
+divid, divis	分	空间
+car, char	车	空间
+
+词根变体	词根含义	词根分类
+dit, dat, dot, don, dow, dos	给	力量
+emper, imper	命令	力量
+pend, pens, pond, penc	悬挂,称量,花费	力量
+vinc, vict	胜，征服	力量
+press	压，按	力量
+sit, sid, sed, sess	坐	力量
+strain, strict, stress, string, strang	拉紧	力量
+fasc	捆，束	力量
+clud, clus, clos, clois, claus, clot	关闭	力量
+solv, solu, solut	解，松的	力量
+flagr, flam	燃烧，火焰	力量
+fend, fens	打击	力量
+nect, nex	结，系	力量
+viol	力，暴力	力量
+rupt	破	力量
+li, lig, ly, leag	绑	力量
+tort, tor	扭，拧	力量
+sal, salt	盐	力量
+val	强	力量
+fisc	国库	力量
+firm	坚固，固定	力量
+add	加，加上	力量
+pot, poss, pow	力量，能力	力量
+forc, fort	力量，强壮	力量
+prehend, prehens	抓住	力量
+
+词根变体	词根含义	词根分类
+plic, ply, pli, ple, plex, plo	倍,重,折叠	情感
+lax	松弛，放松	情感
+fortun	财富	情感
+noc, nox, nui, nec	伤害	情感
+anxi	紧张，不安	情感
+sur	确定	情感
+grat, grac, gree	感谢	情感
+hor	怕	情感
+obsolesc, obsolet	成长，长大	情感
+am, amor, amat	爱,情爱	情感
+terr	惊吓	情感
+damn, demn	惩罚，伤害	情感
+honor, hono, honest	荣誉	情感
+optim	最好的	情感
+plor	流出，哀叫，哀叹	情感
+apt, ept, att	适当，适应	情感
+sat, satis, satur	足，满，饱	情感
+vol, volunt	意志，意愿	情感
+pan	面包	情感
+turb, turbul	骚乱，骚扰	情感
+roma	罗马	情感
+clar, clear, clair	清楚，明白	情感
+fid, fi, fy, feder, feal	相信	情感
+typ	打击,压印	情感
+norm	规范，正规，正常	情感
+
+词根变体	词根含义	词根分类
+stinct, sting, sti	刺，扑灭	社会
+lect, lig, leg, legis	采集，读，说，法律	社会
+preci, prais, pric, priz	价值	社会
+urb	城市	社会
+arch, archa	统治，起始	社会
+order, ord, ordin, ordain	命令	社会
+milit	兵	社会
+jur, jud, jus	法律	社会
+pun, poen, pain, penal, pent	惩罚	社会
+dom, domat, domin	屋，统治	社会
+crim, crimin	控诉,罪行	社会
+us, uti, ut	使用	社会
+polit, polic, polis	城市	社会
+reg	规则，统治	社会
+civ, cit	公民，城市	社会
+gubern, govern	管理，统治	社会
+maj, max, magn	伟大，壮大	社会
+mon	提醒，警告，单一，公共	社会
+mand, mend	命令	社会
+mun	公共	社会
+soci	同伴，联合，结合	社会
+popul, publ	人民	社会
+put, count	数，计算，考虑	社会
+main, man	停驻	社会
+min	小	社会
+
+词根变体	词根含义	词根分类
+cit, cite, citat	召唤	身体
+nat, nasc, naiss, naiv	出生	身体
+st, sist, stat, stin, stem	立，站	身体
+gorg	吞咽	身体
+fac, fic, front	面部,正面，前额	身体
+ped, pod, patch	脚	身体
+od	路	身体
+nerv, neur	神经	身体
+manu, man	手	身体
+capit, cap, cep, chapt, cip, chef, chief, cephal	头	身体
+fan, phan	幻影，幻象	身体
+pneum	肺	身体
+bronch	气管	身体
+cancer, cancr	螃蟹，癌症	身体
+gymn	运动，体育	身体
+aud	听	身体
+cor, card, cour	心（脏）	身体
+habit, hibit	拥有，占据，居住	身体
+fare	去	身体
+mort, mors, mor	死	身体
+carn	肉	身体
+mamm	乳房	身体
+hospit, host	客人，主人，敌人	身体
+hom, hum	人；土地；人类；卑下；湿	身体
+clin, cli, cliv	倾	身体
+
+词根变体	词根含义	词根分类
+par	准备	时间
+temper, tempor	时间	时间
+seri	重要	时间
+lat	拿，持，带来，搬运,担负	时间
+peri, pert	试验，尝试	时间
+journ	一天	时间
+proach, proxim	接近	时间
+fin	终结，末尾，界限	时间
+van, advance, advant	前，先	时间
+frequen, frequent	反复	时间
+di	日	时间
+rar	稀有	时间
+prim, prem, prin, pri	第一	时间
+cad, cas, cid	降落	时间
+rang, rank	排列,顺序	时间
+term, termin	限定，界线，末端	时间
+un, uni	整体；联合	时间
+var	变	时间
+ori, ort, orig	升起	时间
+ann, enn	年	时间
+person, parson	人	时间
+tempt, tent	尝试，触摸	时间
+ultim	最后	时间
+pet, pit, peat	追求	时间
+meter, metr, meas, mens	计量,测量	时间
+
+词根变体	词根含义	词根分类
+doc，-doct	教	思想
+script, scrib, scrip	写，刻写	思想
+sim, sem, simil, simul, sembl	相似	思想
+discip	法则	思想
+sign	设计	思想
+verb	字，词	思想
+rat, ratio	计算，推定，理由	思想
+class	分类，等级	思想
+real	现实	思想
+graph, gram	写，画，文字，图形	思想
+histor	叙事，历史	思想
+cruc, cruis, crus, crux	十字	思想
+caus	导致，原因	思想
+soph	智慧	思想
+merg, mers	沉，没	思想
+quant	量，数量	思想
+qual	性质，特征	思想
+myst, myth	神秘	思想
+ident	相同	思想
+lingu	语言	思想
+crit, cris	判断	思想
+memor, ment, mind	记忆	思想
+cert	确实	思想
+quaint	认知	思想
+caut	仔细	思想
+
+词根变体	词根含义	词根分类
+pict, paint	画，图片，照片	艺术
+pollut	脏	艺术
+album	白色	艺术
+imag, imit	图像	艺术
+draw	画	艺术
+bar, bal, ban	长木条，障碍	艺术
+techn	技术，艺术	艺术
+mus	音乐，娱乐	艺术
+liter	文字	艺术
+haust	抽出	艺术
+cent	百	艺术
+orches	跳舞	艺术
+ball, balo, bol	抛,舞,球	艺术
+art, arthr	艺术，关节	艺术
+celebr	赞美，名望	艺术
+cult	耕作	艺术
+magist, master	掌控	艺术
+drama	戏剧	艺术
+sect, sec, seg	切	艺术
+sculpt	雕刻	艺术
+rid, ris	笑	艺术
+tach, tack	钉，扣件	艺术
+sec, sequ, secut, su	跟随	艺术
+lys, lyt	分，解，溶，散	艺术
+cur	关心，挂念，注意	艺术
+
+词根变体	词根含义	词根分类
+plant	种植	自然
+bot	种植，植物	自然
+cover	覆盖，掩盖	自然
+gen, gn, gener, gent	出生	自然
+cre, cresc, cret	增长，生长，产生	自然
+alesc, alit, olesc	养育，成长	自然
+camp	田野，场所	自然
+rud	原始，粗野	自然
+flu, flux	流	自然
+viv, vit, veg	活	自然
+liqu	液体	自然
+electr	电	自然
+sol	单独，太阳	自然
+cosm	宇宙	自然
+aster, astr	星星	自然
+trop	转	自然
+carb	碳	自然
+oxy, oxia, oxic	尖锐，敏锐，氧	自然
+chem	化学	自然
+viron	环路	自然
+freeze, frig, friger	冷，冰冻	自然
+bi	生命	自然
+zo	动物	自然
+phys	自然，物理	自然
+cav	洞，空	自然
